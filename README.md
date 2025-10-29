@@ -103,4 +103,4 @@ Visit the live version here:
 👨‍💻 Author
 
 Developed by: Pirunthapan Murugaiah  
-🎓 B.Sc. in Computer Science | Passionate Frontend Developer
+🎓 B.Sc. in Computer Science | Passionate Software Engineer
