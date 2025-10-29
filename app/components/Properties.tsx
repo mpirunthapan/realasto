@@ -81,7 +81,6 @@ const Properties = () => {
                 Handpicked exclusive listings just for you
                 </motion.p>
 
-                {/* 🔍 Search Bar */}
                 <motion.div
                 className="mb-10 max-w-lg mx-auto"
                 initial={{ opacity: 0, scale: 0.9 }}
@@ -100,7 +99,6 @@ const Properties = () => {
                 />
                 </motion.div>
 
-                {/* 🏠 Property Cards */}
                 <motion.div
                 layout
                 className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
@@ -157,7 +155,6 @@ const Properties = () => {
                 ))}
                 </motion.div>
 
-                {/* 📑 Pagination */}
                 <motion.div
                 className="flex justify-center mt-10 space-x-2"
                 initial={{ opacity: 0 }}
