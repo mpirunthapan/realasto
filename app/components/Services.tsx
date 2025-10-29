@@ -4,7 +4,7 @@ import { servicesData } from "../data/data";
 import { Home, Zap, ShieldCheck } from "lucide-react";
 import { motion } from "framer-motion";
 
-const iconMap: Record<string, JSX.Element> = {
+const iconMap: Record<string, React.ReactNode> = {
     home: <Home className="w-10 h-10 text-yellow-400" />,
     zap: <Zap className="w-10 h-10 text-yellow-400" />,
     "shield-check": <ShieldCheck className="w-10 h-10 text-yellow-400" />,
